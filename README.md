@@ -7,10 +7,9 @@ Building a multiplayer pong game using sockets.
 1.  NPM Install
 2.  Cors
 3.  Socket.io
+4.  express
 
-Currently, Run npm start and load index.html through local file system. 
-
-I will connect the client (index.html) to express to load via the browser.
+Start client and server to start game with npm start.
 
 ## Two-player Game
 
