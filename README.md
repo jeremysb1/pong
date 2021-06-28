@@ -13,4 +13,8 @@ Start client and server to start game with npm start.
 
 ## Two-player Game
 
-![Two-Player Game](https://github.com/jeremysb1/png_images/blob/main/game1.png "Two-player Pong")
+![Two-Player Game](https://github.com/jeremysb1/png_images/blob/main/first-game-before-rooms.png "Two-player Pong")
+
+## Enabling Rooms (more games on same server)
+
+![Rooms](https://github.com/jeremysb1/png_images/blob/main/2-player-pong.png "Enabling Rooms")
