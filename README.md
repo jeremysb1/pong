@@ -17,4 +17,4 @@ Start client and server to start game with npm start.
 
 ## Enabling Rooms (more games on same server)
 
-![Rooms](https://github.com/jeremysb1/png_images/blob/main/2-player-pong.png "Enabling Rooms")
+![Rooms](https://github.com/jeremysb1/png_images/blob/main/multiple-games.png "Enabling Rooms")
